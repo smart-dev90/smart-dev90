@@ -18,3 +18,6 @@ Here are some ideas to get you started:
 
 // README.md
 ![Github stats](https://github-readme-stats.vercel.app/api?username=smart-dev90&theme=highcontrast&show_icons=true&count_private=true)
+
+// README.md
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=shinokada)
