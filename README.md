@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=smart-dev90&theme=highcontrast&show_icons=true&count_private=true)
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=shinokada)
-
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=shinokada&layout=compact)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=shinokada&layout=compact&theme=highcontrast)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
