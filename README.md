@@ -21,3 +21,6 @@ Here are some ideas to get you started:
 
 // README.md
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=shinokada)
+
+// README.md
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=shinokada&layout=compact)
