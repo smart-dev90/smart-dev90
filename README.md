@@ -16,14 +16,7 @@
 ## 🧑 About me:
 
 <p>
-I am working as a <b>Web</b> & <b>Mobile developer</b> for 7 years with <b>Blockchain</b> and have developed many projects according to clients' needs.<br>
-I am a <b>self-motivated</b> expert with a solid work ethic and a productive <b>self-starter</b>, which alongside my aptitude for learning, keeps me updated. <br>
-I am an <b>ambitious man</b> with rich experience.<br>
-Creative, sophisticated, dedicated engineer with imaginative and efficient solutions for large-scale websites.<br>
-Develop <b>high-quality</b> Mobile app for rapid deployment of bug fixes and new features using established development standards.<br>
-As an expert problem solver, responsive to client needs, and detail-oriented, I have a proven track record of consistently providing high levels of customer <b>satisfaction</b>.<br>
-I can contribute to your project as an individual <b>full-stack developer</b>. And if you want to work with our agency, I can lead teammates.<br>
-Always looking for <b>new</b> solutions and <b>new</b> challenges, <b>new</b> experiences.<br>
+Responsible for 10+ years of experience with various kinds of skills. Proved visionary leadership in many opportunities and launched 10+ huge projects including a high level of project management. Proficient in 7 years of Back-end development, 4 years of Front-end development. Relevant skills include Database management, Software architecture, Server management, Deployment management. Seeking a core developer position with Back-end/Front-end experiences, where my skills can be leveraged to develop, maintain and optimize the company’s product.
 </p>
 
 <h2>🥇 Specialised in:</h2>
