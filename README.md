@@ -13,7 +13,7 @@
     <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/corasphinx?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/></a>
     </p> -->
 
-<p>
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Full%20Stack%20Developer;10+%2B%20years%20of%20engineering;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></img>
 </p>
 
