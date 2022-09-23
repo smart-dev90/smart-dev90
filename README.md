@@ -68,21 +68,21 @@ Responsible for 10+ years of experience with various kinds of skills. Proved vis
 <h2>ℹ️ &nbsp;Github Info</h2>
 	
   <summary><b>🔎 Github Profile Details</b></summary>
-<p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=smart-dev90&theme=github_dark" alt="smart-dev90" align = "center"/></p>
+<p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=supertfit&theme=github_dark" alt="supertfit" align = "center"/></p>
 
   <summary><b>⚡ Github Stats</b></summary>
-<p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=smart-dev90&hide_border=true&count_private=true&show_icons=true&theme=radical" alt="smart-dev90" align = "center"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=smart-dev90&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical" alt="smart-dev90" align = "center"/></p>
+<p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=supertfit&hide_border=true&count_private=true&show_icons=true&theme=radical" alt="supertfit" align = "center"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=supertfit&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical" alt="supertfit" align = "center"/></p>
 
  <summary><b>🔥 Github Streaks</b></summary>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=smart-dev90&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="smart-dev90" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=supertfit&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="supertfit" /></p>
 
 <summary><b>📊 Github Contribution Graph</b></summary>
-<p align="center"<a href="#"><img alt="Ashish Kumar Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=smart-dev90&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" /></a></p>
+<p align="center"<a href="#"><img alt="Ashish Kumar Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=supertfit&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" /></a></p>
 <!-- </details>
 <details>    -->
  <summary><b>🏆 Github Achievements</b></summary>
-<p align="center"> <a href="https://github.com/smart-dev90"><img src="https://github-profile-trophy.vercel.app/?username=smart-dev90&margin-w=5&theme=radical" alt="smart-dev90" /></a> </p>
+<p align="center"> <a href="https://github.com/supertfit"><img src="https://github-profile-trophy.vercel.app/?username=supertfit&margin-w=5&theme=radical" alt="supertfit" /></a> </p>
 
 <br>
 
