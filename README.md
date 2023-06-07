@@ -3,7 +3,7 @@
 </h2>
 
 <h4 align='center'>
-  Blockchain | FullStack Engineer
+  FullStack Engineer | Node.js | React.js | Next.js | Redux | Python
 </h4>
 
 <!-- <p align="center">
